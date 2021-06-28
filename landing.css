@@ -89,7 +89,7 @@ header {
     color: rgb(231, 226, 216);
     line-height: 1em;
     text-transform: uppercase;
-    font-family: 'Mate SC', serif;
+
 }
 
 .text h3 {
@@ -98,7 +98,7 @@ header {
     color: azure;
     line-height: 1em;
     text-transform: uppercase;
-    font-family: 'Libre Baskerville', serif;
+
 }
 
 .text p {
@@ -107,7 +107,7 @@ header {
     margin: 20px 0;
     font-weight: 400;
     max-width: 800px;
-    font-family: 'Cedarville Cursive', cursive;
+
 }
 
 .text a {

@@ -102,10 +102,12 @@ nav img {
 .content p {
     color: rgb(41, 37, 41);
     line-height: 30px;
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 10px;
-    margin-bottom: 10px;
-    font-family: 'Yeon Sung', cursive;
+    margin-bottom: 5px;
+
+
+
 
 }
 
@@ -126,6 +128,11 @@ nav img {
     color: rgb(132, 134, 214);
     transition: 0.5s;
     background-color: rgb(128, 83, 83);
+}
+
+.content .a:hover::after {
+    background-color: red;
+    content: after;
 }
 
 .gallery-box {
